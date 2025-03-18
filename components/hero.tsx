@@ -44,7 +44,7 @@ export default function Hero() {
           <div className="space-y-4">
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tighter">
               <span className="bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
-                Software Engineer
+                BTV DEV
               </span>
             </h1>
             <div className="h-12 md:h-16">
@@ -68,8 +68,7 @@ export default function Hero() {
           </div>
 
           <p className="max-w-[700px] text-muted-foreground md:text-xl">
-            Passionate software engineering student specializing in full-stack development, machine learning, and
-            creating user-centered experiences.
+          Có niềm đam mê mãnh liệt về phần mềm, chuyên về phát triển fullstack, autovà tạo ra trải nghiệm lấy người dùng làm trung tâm.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mt-8">

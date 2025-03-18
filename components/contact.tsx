@@ -83,7 +83,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="font-medium">Email</h4>
-                      <p className="text-muted-foreground">contact@example.com</p>
+                      <p className="text-muted-foreground">bandev.software228@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -92,7 +92,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="font-medium">Phone</h4>
-                      <p className="text-muted-foreground">+1 (123) 456-7890</p>
+                      <p className="text-muted-foreground">(+84) 0987 740 703</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
@@ -101,7 +101,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="font-medium">Location</h4>
-                      <p className="text-muted-foreground">San Francisco, CA</p>
+                      <p className="text-muted-foreground">Thu Dau Mot City, Binh Duong, Viet Nam</p>
                     </div>
                   </div>
                 </div>
@@ -149,7 +149,7 @@ export default function Contact() {
                           fill="currentColor"
                         />
                       </svg>
-                      <span className="sr-only">Twitter</span>
+                      <span className="sr-only">Facebook</span>
                     </a>
                   </div>
                 </div>

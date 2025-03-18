@@ -41,7 +41,7 @@ export default function Header() {
     >
       <div className="container flex h-16 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2">
-          <span className="font-bold text-xl">Portfolio</span>
+          <span className="font-bold text-xl">BTV DEVEVELOPER</span>
         </Link>
 
         <nav className="hidden md:flex items-center gap-6">

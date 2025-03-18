@@ -84,7 +84,7 @@ export default function GithubActivity() {
     },
   ]
 
-  const getActivityIcon = (type) => {
+  const getActivityIcon = (type: string) => {
     switch (type) {
       case "commit":
         return <GitCommit className="h-4 w-4" />
@@ -99,7 +99,7 @@ export default function GithubActivity() {
     }
   }
 
-  const getLanguageColor = (language) => {
+  const getLanguageColor = (language: string) => {
     switch (language) {
       case "TypeScript":
         return "bg-blue-500"
